@@ -14,6 +14,8 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Javascript](#javascript)
+- [VueJS](#vuejs)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -30,6 +32,24 @@ Every bigginer who wants to learn webdevelopment starts with a checklist applica
 - Bootstrap
 - HTML
 - CSS
+
+[Back To The Top](#checklist-website)
+
+---
+
+## Javascript
+
+Here I have used very basic Javascript programming. Pls look at the [HTML](Javascript/index.html) file, and the [app.js](Javascript/app.js) file for best understanding. In app.js you will be able to see 3 sections selectors, event listners and funstions.
+
+
+[Back To The Top](#checklist-website)
+
+---
+
+## VueJS
+
+You will be able to see in [App.vue](VueJS/checklist/src/App.vue) I have called a component [todoApp.vue](VueJS/checklist/src/components/todoApp.vue). Here you can see some HTLM code with a few functions below it. 
+
 
 [Back To The Top](#checklist-website)
 
